@@ -61,16 +61,6 @@ The platform supports a tripartite ecosystem consisting of **Job Seekers**, **Hi
 
 ---
 
-### 📸 Screenshots
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=InternSphere+Home+Page" alt="Home Page" width="800" />
-  <br>
-  <em>(Landing Page showcasing premium glassmorphism design)</em>
-</div>
-
----
-
 ### 🛠 Installation
 
 #### Prerequisites
